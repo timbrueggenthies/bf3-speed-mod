@@ -1,0 +1,9 @@
+{
+    "Name": "speed-gamemode",
+    "Description": "Toller Spielmodus",
+    "Version": "0.1.0",
+    "HasVeniceEXT": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}
